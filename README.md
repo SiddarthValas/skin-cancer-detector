@@ -1,6 +1,3 @@
-Here is the cleaned-up version of your README.md without comments:
-
-⸻
 
 
 # Skin Cancer Detection 
@@ -65,6 +62,7 @@ ngrok.set_auth_token("your_auth_token")
 public_url = ngrok.connect("http://localhost:8501")
 print("Public URL:", public_url)
 
+
 Sample Usage
 	•	Launch the app
 	•	Upload a skin lesion image
@@ -85,4 +83,3 @@ Acknowledgements
 
 ---
 
-Would you like me to now save this directly in your Colab as `README.md` using `%%writefile`?
