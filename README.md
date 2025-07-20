@@ -16,7 +16,8 @@ A deep learning-powered web application built with Keras, Streamlit, and Ngrok t
 ## 📸 Demo
 
 <img width="862" height="983" alt="Skin Cancer Detection App" src="https://github.com/user-attachments/assets/287fb1ef-be6c-4f93-8458-e9d85d319eb1" />  
-<img width="1728" height="988" alt="image" src="https://github.com/user-attachments/assets/b3ea586e-ef77-43e1-bbda-a26e3b92481f" />
+<img width="663" height="982" alt="image" src="https://github.com/user-attachments/assets/3777a338-ea8b-49b8-a0fd-9090446a283a" />
+
 
 
 
